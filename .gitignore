@@ -1,0 +1,17 @@
+# ChromaDB persistent database
+rag_db/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+venv/
+.venv/
+
+# macOS files/
+.DS_Store
+
+# Environment variables and secrets
+.env
+.env.*
